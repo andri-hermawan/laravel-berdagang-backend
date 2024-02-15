@@ -1,6 +1,6 @@
 @extends('layouts.app')
 
-@section('title', 'Dashboard CBT')
+@section('title', 'Dashboard - Berdagang')
 
 @push('style')
     <link rel="stylesheet" href="{{ asset('library/jqvmap/dist/jqvmap.min.css') }}">
